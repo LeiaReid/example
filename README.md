@@ -1,3 +1,15 @@
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
+
 ## Mental health and child mobility, in education
 
 Every year the number of students struggling with mental health has risen. It has almost doubled since the beginning of austerity. But welsh teachers and students report a lack of support, and an inability to access services. 
