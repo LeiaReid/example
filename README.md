@@ -1,3 +1,5 @@
+## Mental health and child mobility, in education
+
 Every year the number of students struggling with mental health has risen. It has almost doubled since the beginning of austerity. But welsh teachers and students report a lack of support, and an inability to access services. 
 
 Four in five teachers Teachers have warned of a growing “crisis” in pupil mental health, with over 80% saying the problems have worsened in the last two years.
@@ -8,7 +10,7 @@ The survey showed that 81% of primary teachers and 86% of secondary teachers rep
  
 The NHS data on Mental Health of Children and Young People in England, revealed that one in eight school-age children had an identified mental health disorder last year, while five per cent met the criteria for two or more disorders when interviewed.
  
-https://jsfiddle.net/LeiaR/sfdgzy49/ OR https://jsfiddle.net/LeiaR/274d10za/
+<script async src="//jsfiddle.net/LeiaR/c5gyqx9d/embed/result/"></script>
  
 According to the collection treatment has risen year on year. Anxiety and emotional disorders have required the most attention, followed by behavioural, hyperactivity, depressive and other conditions. 
  
@@ -25,6 +27,7 @@ The report also illustrates how spending has fallen, in-line with reduced spendi
 In London, local authority spending per child was £17.88, in the East of England, only £5.32 was allocated per child.
  
 “This report reveals for the first time the postcode lottery facing the increasing number of children suffering from low-level mental health conditions like anxiety and depression. It is extremely worrying that a third of local areas in England are actually reducing real terms spending on these vital services.” said Anne Longfield, the Children’s Commissioner for England, in a press release, commenting on its report, “The NHS Ten Year Plan has made children’s mental health a top priority, but it won’t succeed unless children with low-level mental health problems are offered help quickly and early. Local authorities are under huge financial pressure and many are doing a good job, but those who are spending barely anything on low-level mental health cannot continue to leave children to struggle alone.”
+
 Kevin Courtney, joint general secretary at the NEU, said on its website, in a press release, regarding mental health funding, government education policies are, “contributing to a terrible and destructive situation for young people and the education workforce.”
  
 “Schools can’t solve this alone and the government’s underfunding of public services is damaging the next generation from an early age,” he said, “Above all this is about pupils, and it is incumbent upon the education system to do all it can to support anyone with mental health problems.”
@@ -41,7 +44,7 @@ Whilst very few schools provided mental health policies, at least 25/45 (56%) pr
 
 “It’s not a priority in our school. We help when we can intervene, but services can only help so many, our pupils can expect a three month wait.” said an anonymous head teacher as the Welsh NUT conference in March, “We’d love to adapt it into the curriculum, but we don’t have money.”
 
-Another NUT headteacher, said “One of my schools is in a pretty deprived area. Children are coming in with issues from home, mental health issues more and more these days, but we haven’t got the staff to help to support those children. We haven’t got the money too train the staff we have to go on courses and stuff to help. So it is [education funding] affecting certainly how we can help children.”
+Another NUT headteacher, said “One of my schools is in a pretty deprived area. Children are coming in with issues from home, mental health issues more and more these days, but we haven’t got the staff to help to support those children. We haven’t got the money too train the staff we have to go on courses and stuff to help. So it is [education funding](https://leiareid.github.io/funding) affecting certainly how we can help children.”
 
 In a discussion, primary head teachers stated, “We are seeing more and more children suffering as primary school heads.”
 
