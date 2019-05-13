@@ -56,3 +56,14 @@ https://datagifmaker.withgoogle.com/gif/ahxzfmd3ZWItbmV3c2xhYi1kYXRhLXZpei10b29s
 
 Young people’s attitudes towards mental health, covered in the same NHS survey, identified that children and young people are still struggling to seek diagnosis, treatment and build a reliable support network. 
 
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
