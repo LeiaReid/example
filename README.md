@@ -73,7 +73,11 @@ https://datagifmaker.withgoogle.com/gif/ahxzfmd3ZWItbmV3c2xhYi1kYXRhLXZpei10b29s
 
 Young people’s attitudes towards mental health, covered in the same NHS survey, identified that children and young people are still struggling to seek diagnosis, treatment and build a reliable support network. 
 
-![screenshot](mind.png)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I had one supportive teacher but nobody else helped</p>&mdash; Ami Tricker ♿ (@Ami_T1995) <a href="https://twitter.com/Ami_T1995/status/1115210889639202816?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Girl hell no x</p>&mdash; Shona🌻 (@Smile_at_m) <a href="https://twitter.com/Smile_at_m/status/1115204938626404352?ref_src=twsrc%5Etfw">April 8, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Navigation
 
