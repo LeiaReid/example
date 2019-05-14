@@ -6,7 +6,7 @@
 
 [Teaching](https://leiareid.github.io/teaching/)
 
-[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/welfare/)
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
 
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
@@ -87,7 +87,7 @@ Young people’s attitudes towards mental health, covered in the same NHS survey
 
 [Teaching](https://leiareid.github.io/teaching/)
 
-[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/welfare/)
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
 
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
