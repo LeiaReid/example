@@ -62,6 +62,9 @@ Another NUT headteacher, said “One of my schools is in a pretty deprived area.
 
 In a discussion, primary head teachers stated, “We are seeing more and more children suffering as primary school heads.”
 
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="und" dir="ltr"><a href="https://t.co/Z5RD7PgOt1">pic.twitter.com/Z5RD7PgOt1</a></p>&mdash; Leia Reid (@iseeleia) <a href="https://twitter.com/iseeleia/status/1128306637066969089?ref_src=twsrc%5Etfw">14 May 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The promotion of healthy mental health habits is vital in childhood. “Children also pick up on things as they grow, so in the same way you would be concerned about them picking up a swear word, you should also be aware of the words you use, how much attention you pay to them and what you do when you reach your limits with them. How you behave will in turn reflect the way they behave.” said life coach Puja K. McClymont, and entrepreneur of Frankly Coaching, “Having time dedicated to developing mental health and improving any challenges through monthly counsellor visits etc will also allow for parents and teachers to be able to monitor and track a child’s development and therefore both parties are more able to manage any challenges that occur a lot sooner.”
 
 She cited the new mindfulness curriculum, as a positive step towards better mental health: “Other activities such as Mindfulness - which has this year been added to the curriculum in UK schools, Yoga and community activities (giving back) will all contribute to better mental health can be done both at home and in school."
